@@ -1,0 +1,20 @@
+login:
+  url: "https://www.dropbox.com/login"
+  email_selector: 'input[type="email"]'
+  password_selector: 'input[type="password"]'
+  submit_selector: 'button:has-text("Continue")'
+
+nav:
+  members_page: "https://www.dropbox.com/team/admin/members"
+
+provision:
+  members_page: "https://www.dropbox.com/team/admin/members"
+  add_member_button: "button:has-text('Invite members')"
+  success_text: "Invitation sent"
+
+
+deprovision:
+  search_field: 'input[placeholder="Search members"]'
+  more_menu: 'button[aria-label="More actions"]'
+  remove_button: 'button:has-text("Remove")'
+  confirm_button: 'button:has-text("Remove")'

@@ -1,0 +1,44 @@
+login:
+  url: "https://www.dropbox.com/login"
+  email_selector: 'input[name="login_email"], input[type="email"]'
+  continue_button: 'button[type="submit"], button:has-text("Continue")'
+  password_selector: 'input[name="login_password"], input[type="password"]'
+  submit_selector: 'button[type="submit"], button:has-text("Log in")'
+  cookie_accept: 'button:has-text("Accept all"), button:has-text("Accept All")'
+
+members:
+  page: "https://www.dropbox.com/team/admin/members"
+
+selectors:
+  invite_button:
+    - 'button:has-text("Invite members")'
+    - 'button:has-text("Invite member")'
+    - 'button:has-text("Invite")'
+    - '[data-testid="invite-button"]'
+  invite_email_input:
+    - 'input[type="email"]'
+    - 'input[placeholder*="email"]'
+  invite_send_button:
+    - 'button:has-text("Send invite")'
+    - 'button:has-text("Invite")'
+  search_members_input:
+    - 'input[placeholder*="Search"]'
+    - 'input[type="search"]'
+  user_row_more_button:
+    - 'button[aria-label*="More"]'
+    - 'button:has-text("More")'
+    - 'button:has-text("⋯")'
+  remove_button:
+    - 'button:has-text("Remove")'
+    - 'button:has-text("Remove member")'
+  confirm_remove_button:
+    - 'button:has-text("Remove member")'
+    - 'button:has-text("Remove")'
+  team_folder_button: "//span[contains(., 'Nibhriti Team')]"
+  invite_button: ["//button[contains(., 'Invite members')]", "//button[contains(., 'Invite people')]"]
+  invite_email_input: ["//input[@type='email']", "//input[contains(@placeholder, 'email')]"]
+  invite_send_button: ["//button[contains(., 'Send invite')]", "//button[contains(., 'Invite')]"]
+  search_members_input: ["//input[@type='search']", "//input[contains(@placeholder, 'Search')]"]
+  user_row_more_button: ["//button[contains(., '⋯') or contains(@aria-label, 'More options')]"]
+  remove_button: ["//button[contains(., 'Remove')]", "//div[contains(text(),'Remove')]"]
+  confirm_remove_button: ["//button[contains(., 'Confirm') or contains(., 'Remove member')]"]

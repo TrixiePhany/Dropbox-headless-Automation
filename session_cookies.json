@@ -1,0 +1,191 @@
+[
+  {
+    "domain": ".www.dropbox.com",
+    "expiry": 1764910345,
+    "httpOnly": true,
+    "name": "lid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "AAAdYhTIOnmhr-ZMh10lEMYVeE1uHD_IvrDE_cQus9gKEQ"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854345,
+    "httpOnly": true,
+    "name": "blid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "AACmzc6GM4Pr8DG4aRKmG0MHmNo85rdZars9e_0iv6sj0A"
+  },
+  {
+    "domain": ".www.dropbox.com",
+    "expiry": 1764910345,
+    "httpOnly": true,
+    "name": "jar",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "W3sidWlkIjogMjc3NjE2MDAxNywgIm5zIjogMTMxOTQ2OTQ0MTcsICJyZW1lbWJlciI6IHRydWUsICJleHBpcmVzIjogMTc2NDkxMDM0NSwgImgiOiAiIn1d"
+  },
+  {
+    "domain": "www.dropbox.com",
+    "expiry": 1793854345,
+    "httpOnly": true,
+    "name": "__Host-ss",
+    "path": "/",
+    "sameSite": "Strict",
+    "secure": true,
+    "value": "Zplu15XoRc"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854345,
+    "httpOnly": true,
+    "name": "t",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "UGbhJkN_me0AM3Y4B7x7ezjv"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854339,
+    "httpOnly": true,
+    "name": "_iidt",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ueYwe1X+atSx2KuP8quIjQ+3Y2ItsrZtb7AzEBr0cgydQclGnbZklG4MqwjWrA1wm4jbEaxSLFeZfHJDq0LRyZA="
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1777956725,
+    "httpOnly": false,
+    "name": "__Secure-dbx_consent",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "{\"consentType\":1,\"consentDate\":\"2025-11-05T04:52:05.761Z\",\"expireDate\":\"2026-05-05T04:52:05.761Z\",\"consentMonths\":6,\"categories\":{\"strictly necessary\":true,\"general marketing and advertising\":false,\"analytics\":false,\"performance and functionality\":false,\"social media advertising\":false},\"userInteracted\":false,\"numDots\":1}"
+  },
+  {
+    "domain": "www.dropbox.com",
+    "expiry": 1793854345,
+    "httpOnly": false,
+    "name": "__Host-js_csrf",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "UGbhJkN_me0AM3Y4B7x7ezjv"
+  },
+  {
+    "domain": "www.dropbox.com",
+    "expiry": 1777870324,
+    "httpOnly": false,
+    "name": "g_state",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "{\"i_l\":0,\"i_ll\":1762318324910,\"i_b\":\"myew9iSB3mxCQqk0JD3WgIWHtQD1URMyebeXg9Oaqrc\"}"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854349,
+    "httpOnly": false,
+    "name": "last_active_linked_user_id",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "b24b22aa"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854345,
+    "httpOnly": true,
+    "name": "db-help-center-uid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "ZXlKMllXeDFaU0k2SUhzaWRXbGtJam9nTWpjM05qRTJNREF4TjMwc0lDSnphV2R1WVhSMWNtVWlPaUFpUVVGSGNrNUdjVGRZUzBoZlVIcHBTRTlXV1RKNVRIQmljVTFaYzNkR09XSklhVWc1VjFwMFgwVk9UUzE1VVNKOQ%3D%3D"
+  },
+  {
+    "domain": "www.dropbox.com",
+    "expiry": 1796878323,
+    "httpOnly": true,
+    "name": "gvc",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "OTc1NTk3NDU0MzEzMDc2ODUwNzEwMzk5MDkyMjM4OTYzNTczMTc="
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854349,
+    "httpOnly": false,
+    "name": "last_active_role",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "work"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1796878324,
+    "httpOnly": false,
+    "name": "dbx_js_analytics_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "AAB7Auauksr-juOOnEpy_YFmtY2sW2hvhpM7SW38rwczTg"
+  },
+  {
+    "domain": "www.dropbox.com",
+    "expiry": 1762750324,
+    "httpOnly": false,
+    "name": "billing_cycle",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "yearly"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854345,
+    "httpOnly": true,
+    "name": "bjar",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "W3sidWlkIjogMjc3NjE2MDAxNywgInNlc3NfaWQiOiAyNjk5NDc1MTIzMjQ2MjA1MzQ5NTg0MjA4NTQ5MTczMzMwOTkwNDcsICJyb2xlIjogIndvcmsiLCAidGVhbV9pZCI6IDU2MTMzMTg1LCAiZXhwaXJlcyI6IDE3NjQ5MTAzNDUsICJ1c2VyX2dpZCI6ICJBQjFnZld5ZlltR0VGN3dNY3paek1mbUkifV0%3D"
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1793854339,
+    "httpOnly": false,
+    "name": "_vid_t",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "f1JGlNs3xNNydQkR78FVsWV86o32pYG0/ce6BkFkzSjUWOGTA2MOvFhwHvTnMlVE/ylBuo0hjXhCL8mN2pIMYug="
+  },
+  {
+    "domain": ".dropbox.com",
+    "expiry": 1796878323,
+    "httpOnly": false,
+    "name": "locale",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "en_GB"
+  },
+  {
+    "domain": ".www.dropbox.com",
+    "httpOnly": true,
+    "name": "preauth",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": ""
+  }
+]
